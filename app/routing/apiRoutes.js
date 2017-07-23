@@ -51,4 +51,3 @@ module.exports = function (app) {
 		res.json(friendData[bestFriendIndex]);
 	})
 }
-Contact GitHub API Training Shop Blog About
